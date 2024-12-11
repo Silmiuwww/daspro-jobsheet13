@@ -25,7 +25,7 @@ public class KRS {
                 } else if (pilihan == 2) {
                     tampilkrs();
                 } else if (pilihan == 3) {
-                    System.out.println("Fitur Analisis Data KRS belum tersedia.");
+                    analisisDataKRS();
                 } else if (pilihan == 4) {
                     System.out.println("Terima kasih telah menggunakan program ini!");
                     break;
